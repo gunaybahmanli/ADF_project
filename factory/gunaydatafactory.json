@@ -1,0 +1,9 @@
+{
+	"name": "gunaydatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2c84c05-eb89-4f7c-86ff-aa03acd13043",
+		"tenantId": "9c8ce09a-8ba1-4bef-a32b-d9bf90d5e0c4"
+	}
+}
